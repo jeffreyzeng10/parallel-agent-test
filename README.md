@@ -1,2 +1,2 @@
-# parallel-agent-test
-Test repository for parallel agent sessions with git worktrees
+# Parallel Agent Test
+Testing parallel sessions with git worktrees
