@@ -1,1 +1,2 @@
-Feature 1 implementation
+Feature 1 modified by issue 3
+New line from issue 3
